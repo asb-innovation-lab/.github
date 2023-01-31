@@ -50,4 +50,4 @@ For support, email social@erstehilfe2go.de
 
 ## Team
 
-- [@@asb-innovation-lab/asb-innovation-lab](https://github.com/orgs/asb-innovation-lab/teams/asb-innovation-lab)
+- [@asb-innovation-lab/asb-innovation-lab](https://github.com/orgs/asb-innovation-lab/teams/asb-innovation-lab)
