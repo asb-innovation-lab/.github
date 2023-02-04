@@ -1,34 +1,18 @@
-# ErsteHilfe2Go App
+# Arbeiter-Samariter-Bund Innovation Lab
 
-This is the **official** App of ErsteHilfe2Go. We want to make first aid digital, for everyone. 
+This is the **official** Innovation Lab of the Arbeiter-Samariter-Bund, Ortsverband Hamburg-Nordost e.V. 
 
 ## Project description
 
-> ErsteHilfe2Go is a project of the Arbeiter-Samariter-Bund. The goal is to make first aid digital. 
+The ASB Innovation Lab is a team of mostly young people who take care of the digitalization and media presence of the local association. 
+
+Among other things, one of our teams, ErsteHilfe2Go, is currently working on an app and website to make first aid digital for all people. 
+The app is currently the main project of the Innovation Lab. 
+Other projects will follow soon. 
 We are helped by volunteer doctors, paramedics, trainers, lawyers, programmers and others. 
 These make up a large part of our project.
-For this purpose, the developer-team of ErsteHilfe2Go is developing an app, as well as a website to offer users a unique experience!
-
 
 ![AppPreview](https://de.share-your-photo.com/img/a12c2cfe5e.png)
-
-
-## Features
-
-- Light/dark mode toggle
-- First Aid Assistant
-- InApp Searching
-- Cross platform
-- User Emergency Passport
-- First Aid Assistant
-- Cardiopulmonary Resuscitation Assistant
-- Custom App Experience
-- Multi-language support
-- Current location and places
-- Modern design
-- Reference book / glossary
-- and much more...
-
 
 ## Tech Stack
 
